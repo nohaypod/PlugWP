@@ -13,7 +13,7 @@
  * Domain Path:       Espanglish
  */
 register_activation_hook(__FILE__,'Activarplug');
-function Activaplugr(){
+function Activarplug(){
     //silenceisgolden
 }
 
