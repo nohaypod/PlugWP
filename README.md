@@ -1,2 +1,2 @@
 # PlugWP
-Plugin base en lenguaje PHP y otros para Plugin simple para ejecutar en entorno Wordpress
+Plugin base listo para descargar en  la carpeta wp-comntentes/plugins de una instalación de wordpress.
